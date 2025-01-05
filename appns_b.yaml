@@ -3,5 +3,7 @@ kind: Namespace
 metadata:
   creationTimestamp: null
   name: appns-b
+  labels:
+    name: appns-b
 spec: {}
 status: {}
