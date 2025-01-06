@@ -49,7 +49,10 @@ Po usunięciu network policy dostęp do app-a oraz app-b działa poprawnie.
 
 ![image](https://github.com/user-attachments/assets/7c665322-b6b1-4f38-8483-72b3fd977c37)
 
-Aby ominąć ten probelm testowałam rózne konfiguracje polityk sieciowych, jednak nie udało mi się rozwiązać probelmu.
+Aby ominąć ten probelm testowałam rózne konfiguracje polityk sieciowych, jednak nie udało mi się rozwiązać probelmu. Planuję w dalszym ciągu analizować problem i znaleźć rozwiązanie.
+
+<hr>
+
 
 
 
