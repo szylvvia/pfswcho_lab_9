@@ -25,7 +25,7 @@ natomiast app-b jest dostępna pod adresem b.lab9.net. Dodatkowo utworzono równ
 
 ![image](https://github.com/user-attachments/assets/d97d56de-8515-4db9-8247-1f816af530c1)
 
-Dostęp do domyślnego backendu działa poprawnie.
+Dostęp do domyślnego backendu działa poprawnie. Ingress controller otrzymuje żądanie, ale nie może poprawnie skierować go do odpowiedniego serwisu lub podu.
 
 ![image](https://github.com/user-attachments/assets/2a93da27-2032-4434-ac5d-f96bb13b1980)
 
