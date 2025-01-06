@@ -19,7 +19,7 @@ Zabroniono wszelkiej komunikacji pomiędzy obiektami uruchomionymi w przestrzeni
 
 ## Utworzenie kontrolera Ingress Nginx i obiektów Ingress
 Ponieważ obiekty Deployment są w różnych przestrzeniach nazw utworzono w każdej obiekt Ingress, tak by możliwe było znalezienie endpointów. Aplikacja app-a jest dostępna pod adresem a.lab9.net
-natomiast app-b jest dostępna pod adresem b.lab9.net. Dodatkowo utworzono również domyślny backend.
+natomiast app-b jest dostępna pod adresem b.lab9.net. Oba obiekty Ingress mają zdefiniowany port 80. Dodatkowo utworzono również domyślny backend.
 
 ![image](https://github.com/user-attachments/assets/4db68b06-bd65-49d7-b636-7adceb58a81f)
 
